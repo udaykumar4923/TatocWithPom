@@ -1,0 +1,16 @@
+package com.qait.automation.Tatocwithts;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+public class TatocAutomation {
+	WebDriver driver = new ChromeDriver();
+	
+	@Test
+	public void openpage(){
+		
+		driver.get("http://10.0.1.86/tatoc");
+	}
+	
+}

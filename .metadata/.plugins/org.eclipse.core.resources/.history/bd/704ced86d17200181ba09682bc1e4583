@@ -1,0 +1,17 @@
+package tatocassignment;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Tatoc {
+
+	public static void main(String[] args) {
+		WebDriver driver = new ChromeDriver();
+		driver.get("http://10.0.1.86/tatoc");
+		driver.findElement(By.linkText("Basic Course")).click();
+		driver.findElement(By.classNamet("greenbox")).click();
+
+	}
+
+}

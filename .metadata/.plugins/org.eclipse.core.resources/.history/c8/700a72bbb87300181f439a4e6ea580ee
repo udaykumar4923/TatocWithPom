@@ -1,0 +1,5 @@
+package com.qait.automation.Tatocwithts;
+
+public class TatocAutomation {
+	WebDriver driver = new ChromeDriver();
+}

@@ -1,0 +1,13 @@
+package com.qait.automation.HrisPageObject;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class Timesheet {
+	WebDriver driver;
+	
+	public Timesheet() {
+		driver = new ChromeDriver();
+		driver.get("https://hris.qainfotech.com:8086/time/timesheet");
+	}
+}
