@@ -44,6 +44,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/qainfotech/eclipse-workspace/TatocPageObject"/>
 			<item value="/home/qainfotech/eclipse-workspace/pageobjectmodel"/>
 			<item value="/home/qainfotech/eclipse-workspace/tatocassignment"/>
 			<item value="/home/qainfotech/eclipse-workspace/tatocAutomationTestng"/>
@@ -60,15 +61,19 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.qait.automation.HrisPageObject"/>
-			<item value="com.qait.automation.pageobjectmodel"/>
+			<item value="com.qait.automation.assignment_snl_java_api_master"/>
+			<item value="com.qait.automation.assignemnt_snl_java_api_master"/>
+			<item value="com.qait.automation.TatocPageObject"/>
+			<item value="com.qait.automation.Tatocpageobject"/>
 		</list>
 		<list key="groupId">
 			<item value="com.qait.automation"/>
 		</list>
 		<list key="artifactId">
-			<item value="HrisPageObject"/>
-			<item value="pageobjectmodel"/>
+			<item value="assignment-snl-java-api-master"/>
+			<item value="assignemnt-snl-java-api-master"/>
+			<item value="TatocPageObject"/>
+			<item value="Tatocpageobject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

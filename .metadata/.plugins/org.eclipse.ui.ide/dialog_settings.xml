@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/home/qainfotech/eclipse-workspace/SnL_Test-master"/>
+		<item value="/home/qainfotech/Downloads/assignment-snl-java-api-master"/>
+	</list>
 	<section name="ResourceNavigator">
 		<item value="Aggregate for window 1529304834093" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
 		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>
